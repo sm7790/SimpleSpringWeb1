@@ -1,0 +1,3 @@
+127.0.0.1 - - [04/Mar/2016:20:36:38 -0600] "GET /springWebApp/ HTTP/1.1" 200 1361 http-bio-9090-exec-1 1318
+127.0.0.1 - - [04/Mar/2016:20:36:38 -0600] "GET /springWebApp/resources/css/bootstrap.min.css HTTP/1.1" 200 134289 http-bio-9090-exec-2 20
+127.0.0.1 - - [04/Mar/2016:20:36:38 -0600] "GET /springWebApp/resources/js/bootstrap.min.js HTTP/1.1" 200 35951 http-bio-9090-exec-3 10
