@@ -19,7 +19,7 @@ public class WelcomeController {
 
 		
 		
-		return "index";
+		return "start";
 	}
 
 	@RequestMapping(value = "/hello/{name:.+}", method = RequestMethod.GET)
