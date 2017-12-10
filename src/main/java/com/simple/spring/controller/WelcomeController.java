@@ -19,7 +19,7 @@ public class WelcomeController {
 
 		
 		
-		return "start";
+		return "indwex";
 	}
 
 	@RequestMapping(value = "/hello/{name:.+}", method = RequestMethod.GET)
