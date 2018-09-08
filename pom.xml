@@ -60,7 +60,7 @@
 				<artifactId>tomcat7-maven-plugin</artifactId>
 				<version>2.2</version>
 				<configuration>
-					<port>9090</port>
+					<port>9010</port>
 					<path>/${project.build.finalName}</path>
 				</configuration>
 				<executions>
